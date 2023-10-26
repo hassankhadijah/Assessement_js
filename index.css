@@ -1,0 +1,40 @@
+.Quiz-container {
+    background-color: rgb(from 250 r220 g 200b);
+    max-width: 500px;
+    margin: auto;
+    padding: auto;
+    border: 1px saddlebrown;
+
+}
+
+h2 {
+    margin: 10px;
+    padding-top: 5px;
+    max-width: 10px;
+
+}
+
+#Quiz-structure {
+    align-content: normal;
+    text-decoration: aliceblue;
+    font-size: medium;
+    inline-size: auto;
+    justify-content: center;
+    lighting-color: blueviolet;
+    
+}
+
+#submit button {
+    box-shadow: inset;
+}
+
+.correct { 
+color-scheme: green;
+}
+.wrong {
+    color-scheme: red;
+}
+
+
+
+
